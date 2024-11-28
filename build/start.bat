@@ -1,0 +1,6 @@
+@echo off
+echo Starting preview server...
+echo Server can be closed by closing this window.
+.\node-v18.20.4-win-x64\node.exe server.js
+echo Press any key to stop the server and exit...
+pause
